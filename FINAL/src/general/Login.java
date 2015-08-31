@@ -6,7 +6,7 @@ public class Login {
 		
 	}
 	//cambio 
-	
+	//cambio realizado en mi maquina Cristhian
 	//otro cambio
 	String user = "";
 	String pass="";
