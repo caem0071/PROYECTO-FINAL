@@ -9,12 +9,13 @@ public class Login {
 	String user = "";
 	String pass="";
 	
+	@SuppressWarnings("deprecation")
 	public int validaPass() {
 		
 		user = Ventana1.tfUsuario.getText();
 		pass = Ventana1.pswField.getText();
-		
-		if(user.equals("admin") && pass.equals("espol123")){
+		//cambio de usuario y clave
+		if(user.equals("hola") && pass.equals("espol")){
 			return 1;
 		}
 		else{
