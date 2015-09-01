@@ -5,7 +5,7 @@ public class Login {
 	public Login(){
 		
 	}
-	//cambio para prueba de GIT
+	// nuestro cambio 2015 cambio para prueba de GIT
 	
 	String user = "";
 	String pass="";
