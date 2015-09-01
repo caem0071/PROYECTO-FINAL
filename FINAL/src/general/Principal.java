@@ -11,7 +11,7 @@ public class Principal {
     
      public static void main(String args[]){
         if(!Archivo.crear()){
-            JOptionPane.showMessageDialog(null, "Error CAMBIO DE WINDOWS al crear el archivo",                                            
+            JOptionPane.showMessageDialog(null, "Error CAMBIO DE WINDOW...S al crear el archivo",                                            
                                             "ERROR", JOptionPane.ERROR_MESSAGE);
             System.exit(0);
         }        
