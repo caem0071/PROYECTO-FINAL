@@ -14,6 +14,7 @@ import static java.sql.DriverManager.println;
 public class principal {
     public static void main(String args[]){
         println("HOLA MUNDO GIT");
+        println("proyecto final netbeans");
     }
     
 }
