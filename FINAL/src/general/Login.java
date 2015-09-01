@@ -6,10 +6,7 @@ public class Login {
 		
 	}
 	//cambio para prueba de GIT
-	//se vera reflejado en el master
-	//cambio 
-	//cambio realizado en mi maquina Cristhian
-	//cambio en la shell 2015
+	
 	String user = "";
 	String pass="";
 	
