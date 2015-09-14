@@ -6,7 +6,7 @@ public class Login {
 		
 	}
 
-	//nueva modificacion Denisse 
+	//PRESENTACION PROYECTO JAVA 
 
 	
 	String user = "";
