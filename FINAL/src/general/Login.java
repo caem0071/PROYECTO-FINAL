@@ -5,8 +5,7 @@ public class Login {
 	public Login(){
 		
 	}
-	// cambio ubuntu
-	// nuestro cambio 2015 cambio para prueba de GIT
+	//cambio antes de la exposicion
 	
 	String user = "";
 	String pass="";
