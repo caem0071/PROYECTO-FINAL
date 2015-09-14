@@ -6,9 +6,7 @@ public class Login {
 		
 	}
 
-	// cambio ubuntu
-	// nuestro cambio 2015 prueba corozo corozo
-	//cambio antes de la exposicion
+	//nueva modificacion Denisse 
 
 	
 	String user = "";
