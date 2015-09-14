@@ -6,7 +6,7 @@ public class Login {
 		
 	}
 	// cambio ubuntu
-	// nuestro cambio 2015 cambio para prueba de GIT
+	// nuestro cambio 2015 prueba corozo corozo
 	
 	String user = "";
 	String pass="";
